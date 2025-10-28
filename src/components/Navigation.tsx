@@ -37,7 +37,7 @@ const Navigation = () => {
               <img src="src/assets/logo.png" alt="FarmConnect logo" className="h-8 w-auto object-contain" />
             </div>
             <span className="font-bold text-xl bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              FarmConnect
+              AsiliConnect
             </span>
           </Link>
 

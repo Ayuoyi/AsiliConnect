@@ -10,8 +10,8 @@ import { convertToKES } from "@/lib/currency";
 const Index = () => {
   const featuredProducts = [{
     name: "Premium Arabica Coffee Beans",
-    farmer: "Nyeri Highlands Coffee Co-op",
-    location: "Nyeri County, Kenya",
+    farmer: "Nyamira Highlands Coffee Co-op",
+    location: "Nyamira  County, Kenya",
     price: "850",
     unit: "kg",
     rating: 4.9,
